@@ -1,3 +1,3 @@
 <?php
-echo date("Y-m-d H:i:s")."みーーん!!";
+echo date("Y-m-d H:i:s")."ぽわーーーーーーーーーん!!";
 ?>
